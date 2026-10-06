@@ -25,7 +25,7 @@
     "license": "Elastic-2.0",
     "description": "Aggregated OpenAPI documentation for the bouc.io platform. Fans out to each service's spec over the mesh and serves them behind one Swagger UI.",
     "dependencies": {
-        "axios": "^1.10.0",
+        "axios": "^1.20.0",
         "cors": "^2.8.5",
         "dotenv": "^16.5.0",
         "express": "^4.21.2",
