@@ -25,7 +25,7 @@
     "license": "Elastic-2.0",
     "description": "Aggregated OpenAPI documentation for the bouc.io platform. Fans out to each service's spec over the mesh and serves them behind one Swagger UI.",
     "dependencies": {
-        "@opentelemetry/auto-instrumentations-node": "^0.78.0",
+        "@opentelemetry/auto-instrumentations-node": "^0.81.0",
         "@opentelemetry/exporter-metrics-otlp-http": "^0.220.0",
         "@opentelemetry/exporter-trace-otlp-http": "^0.220.0",
         "@opentelemetry/sdk-metrics": "^2.9.0",
